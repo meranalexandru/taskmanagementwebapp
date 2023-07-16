@@ -7,9 +7,6 @@ function Profile() {
         <Tabs.TabPane tab="Projects" key="1">
             <Projects/>
         </Tabs.TabPane>
-        <Tabs.TabPane tab="General" key="2">
-            General
-        </Tabs.TabPane>
     </Tabs>)
 }
 
